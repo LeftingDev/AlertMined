@@ -6,15 +6,15 @@ AlertMined allows you to inform your users that you are using a mining script an
 
 Why using AlertMined ?
 
-• Inform your user
-• Gives you a good reputation
-• You do not force your users a miner
-• The message and translated
-• An API (PHP,JS,Other...)
-• You can reward users who extract
-• Full Responsive
-• Easy to use
-• It's free
+- Inform your user
+- Gives you a good reputation
+- You do not force your users a miner
+- The message and translated
+- An API (PHP,JS,Other...)
+- You can reward users who extract
+- Full Responsive
+- Easy to use
+- It's free
 
 
 AlertMined is a script JavaScript:
