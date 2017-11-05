@@ -4,7 +4,7 @@ AlertMined ask your users if they want mined for you ! It's free!
 AlertMined is a script JavaScript:
 
 Copy the code and past on all pages of your website in your body!
-```Javascript
+```html
 <script type="text/javascript">
 var script=document.createElement("script");script.src="https://www.alertmined.tk/mined-script/",document.write(script.outerHTML);
 //If user allow mined so active function automatic:
@@ -14,7 +14,7 @@ function ActionMined_action() {
 </script>
 ```
 Exemple with coinhive.com who is a pool mining in JavaScript :
-```Javascript
+```html
 <script type="text/javascript">
 var script=document.createElement("script");script.src="https://www.alertmined.tk/mined-script/",document.write(script.outerHTML);
 //If user allow mined so active function automatic:
