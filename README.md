@@ -1,5 +1,21 @@
 # AlertMined
 AlertMined ask your users if they want mined for you ! It's free!
+Use AlertMined for your web it's:
+
+AlertMined allows you to inform your users that you are using a mining script and asks them if he wants to mining for you. They adapts and translates this message only to the language of the user.
+
+Why using AlertMined ?
+
+• Inform your user
+• Gives you a good reputation
+• You do not force your users a miner
+• The message and translated
+• An API (PHP,JS,Other...)
+• You can reward users who extract
+• Full Responsive
+• Easy to use
+• It's free
+
 
 AlertMined is a script JavaScript:
 
